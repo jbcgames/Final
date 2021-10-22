@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fondo.png</file>
+        <file>oorjG.png</file>
+        <file>vidas.png</file>
+        <file>Sprite.png</file>
+        <file>1634791631444.png</file>
+        <file>SpriteUva.png</file>
+        <file>FinalFrenteN.png</file>
+        <file>FinalNormal.png</file>
+        <file>piedra.png</file>
+    </qresource>
+</RCC>
