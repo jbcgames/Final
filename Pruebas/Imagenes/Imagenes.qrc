@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fondo.png</file>
+        <file>oorjG.png</file>
+        <file>vidas.png</file>
+        <file>Sprite.png</file>
+        <file>1634791631444.png</file>
+        <file>SpriteUva.png</file>
+        <file>FinalFrenteN.png</file>
+        <file>FinalNormal.png</file>
+        <file>piedra.png</file>
+        <file>cubo.png</file>
+        <file>pincho.png</file>
+        <file>Exposion.png</file>
+        <file>manzana.png</file>
+        <file>pincho2.png</file>
+        <file>pinchoneg.png</file>
+        <file>rect.png</file>
+        <file>Comiendofinal.png</file>
+        <file>nivel.png</file>
+    </qresource>
+</RCC>
